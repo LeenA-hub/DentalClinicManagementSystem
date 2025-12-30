@@ -1,7 +1,7 @@
 -- ===========================================================
 -- File: advanced_queries.sql
 -- Purpose: Advanced SQL queries for Dental Clinic
--- Author: Nancy, Elisha, Ameera
+--
 -- ===========================================================
 
 SET SERVEROUTPUT ON;
@@ -52,3 +52,4 @@ FROM dental_staff s
 LEFT JOIN appointment a ON s.staff_id = a.staff_id
 GROUP BY s.fname, s.lname
 HAVING COUNT(a.appointment_id) >= 1;
+
