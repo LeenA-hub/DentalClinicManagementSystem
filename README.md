@@ -54,6 +54,14 @@ All tables were normalized to **3NF and BCNF** to ensure consistency and scalabi
 I wanted to strengthen my database design skills by building something practical and realistic. A dental clinic system touches many common database challenges such as relationships, constraints, reporting, and normalization, making it a great case study for real-world DBMS design.
 
 ---
+## demo of final GUI 
+
+
+<img width="349" height="176" alt="Screenshot 2025-12-29 235927" src="https://github.com/user-attachments/assets/3bc925c7-5d4c-403d-a16c-dc4876467cb9" />
+<img width="350" height="173" alt="Screenshot 2025-12-30 000058" src="https://github.com/user-attachments/assets/98206cc0-b1cf-4b63-9f34-b87eb7c7a66d" />
+<img width="350" height="335" alt="Screenshot 2025-12-30 000033" src="https://github.com/user-attachments/assets/f7c4f9c6-a081-4c0e-a55d-074b80238f53" />
+<img width="353" height="335" alt="Screenshot 2025-12-30 000005" src="https://github.com/user-attachments/assets/f55bc863-8c81-4632-a687-7e974b899267" />
+
 
 ## Possible Improvements
 - Web or desktop frontend for clinic staff
